@@ -1,5 +1,5 @@
 import React from 'react';
-import AboutUs from './components/AboutUs'; // Импортируем наш новый компонент
+import AboutUs from './components/AboutUs'; 
 
 function App() {
   return (
